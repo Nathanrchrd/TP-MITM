@@ -1,4 +1,5 @@
 ====================================# TP-MITM #==================================
+
 Projet réaliser par :   -BOUVIER Gaston
                         -RICHARD-DUCROS Nathan
                         -HUBERT Eliott
@@ -10,12 +11,12 @@ et consiste à celà :
 
     Sujet : Mon nom est « personne ».
     
-    Vous allez vous mettre dans la peau d’un hackerͶͷ͸͹. Votre objectif, communiquer un message secret à votre contact dans le Darkweb. Attention, votre organisation est elle-même ciblé et vous devez également contre attaquer pour arriver à vos fins. Après tout, les données des autres organismes pourront toujours être revendu à big Daddy Langloy ۜ۝۞۟
+    Vous allez vous mettre dans la peau d’un hackerͶͷ😏. Votre objectif, communiquer un message secret à votre contact dans le Darkweb. Attention, votre organisation est elle-même ciblé et vous devez également contre attaquer pour arriver à vos fins. Après tout, les données des autres organismes pourront toujours être revendu à big Daddy Langloy ۜ💰
     
     Objectif du TP: 
-        Obtenir le mot secret de votre binôme : +10 £angloy ۜ۝۞۟
-        Mener une attaque Mitm sur d’autres camarade afin d’être le seul à réussir. ❊❋❌❍❎
-        Récupérer le bon message secret d’autre camarade : +5 £angloy ۜ۝۞۟
+        Obtenir le mot secret de votre binôme : +10 £angloy ۜ💰
+        Mener une attaque Mitm sur d’autres camarade afin d’être le seul à réussir. ☠️
+        Récupérer le bon message secret d’autre camarade : +5 £angloy ۜ💰
 
     Phase de compréhension:
         TP à mener impérativement en binôme. 
@@ -37,4 +38,5 @@ et consiste à celà :
      
         Phase finale: 
             Envoyer un message à votre enseignant avec : 
-                oVotre message Secret oLe nom de votre binôme oLe message secret de votre binôme (si vous l’avez ͣͤͥ͢) oLe ou les messages secrets obtenus (si vous en avez ͣͤͥ͢) 
+                oVotre message Secret oLe nom de votre binôme oLe message secret de votre binôme (si vous l’avez😈) 
+                oLe ou les messages secrets obtenus (si vous en avez😈) 
