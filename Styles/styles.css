@@ -1,0 +1,13 @@
+
+*{
+    min-height: 100vh;
+    overflow-y: hidden;
+    font-size: 1em;
+    font-family: fantasy;
+
+}
+
+ul, li {
+    visibility: visible;
+}
+
