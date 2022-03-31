@@ -12,7 +12,13 @@
     </head>
 
     <body>
-            
-    </body>
+            <div>
+                <form method="POST">
+                    <strong>De combien d'utilisateur avez vous besoin ?</strong>
+                    <input type="number" name="nombreutilisateurs" class="demande_nom_utilisateur" id="nombre_utilisateurs" min="1" max="40" value='Nombre de participants' required></input>
+                    
+                </form>
+            </div>
+    </div>
 
 </html>
