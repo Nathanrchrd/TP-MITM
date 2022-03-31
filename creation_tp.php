@@ -7,7 +7,6 @@
         <?php
            session_set_cookie_params(1);
            session_start();
-           
         ?>
     </head>
 
