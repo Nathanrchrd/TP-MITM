@@ -32,12 +32,15 @@
                     <form method="POST">';
                 for($i=1;$i<=$nombre_util;$i++){
                     echo"
-                    <input name='nom_utilisateur' value='Nom utilisateur' class='alignement_input' required>
+                        <input name='nom_utilisateur".$i."' value='Nom utilisateur' class='alignement_input' required>
 
-                    </br>
+                        </br>
                     ";
                 }
-                echo'</div>';
+                echo"
+                        <input type='submit' value='Valider' class='BoutonValidation' >
+                </div>";
+                
             }
 
                 
