@@ -4,6 +4,7 @@ Projet réaliser par :
     -BOUVIER Gaston  
     -RICHARD-DUCROS Nathan  
     -HUBERT Eliott  
+    -BARRAT Adrien
 
 Ce projet est un TP de BTS SIO qui a été crée par LANGLOY Alban qui nous à demander d'automatisé celui-ci afin de faciliter sa mise en pratique lors des prochaine année.
 
